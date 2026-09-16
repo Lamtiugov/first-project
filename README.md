@@ -18,5 +18,5 @@ first-project/
 
 **Евгений Ламтюгов**  
 
-[GitHub: TomOstin](https://github.com/Lamtiugov)
+[GitHub: TomOstin](https://github.com/Lamtiugov) \
 [Max: Евгений](https://max.ru/u/f9LHodD0cOLQSsmoP3vtxS49BwAXGbyimST7L6gkwL6VYE1umq6bnJMO3mA)
